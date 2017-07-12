@@ -1,0 +1,3 @@
+[submodule "sticky-coercion-api"]
+	path = sticky-coercion-api
+	url = git@github.com:StickySource/sticky-coercion-api.git
