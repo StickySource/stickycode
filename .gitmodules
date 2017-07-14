@@ -1,3 +1,6 @@
 [submodule "sticky-coercion-api"]
 	path = sticky-coercion-api
 	url = git@github.com:StickySource/sticky-coercion-api.git
+[submodule "sticky-release-testing"]
+	path = sticky-release-testing
+	url = git@github.com:StickySource/sticky-release-testing.git
