@@ -4,3 +4,6 @@
 [submodule "sticky-release-testing"]
 	path = sticky-release-testing
 	url = git@github.com:StickySource/sticky-release-testing.git
+[submodule "tile"]
+	path = tile
+	url = git@github.com:StickySource/tile.git
