@@ -4,3 +4,21 @@
 [submodule "sticky-release-testing"]
 	path = sticky-release-testing
 	url = git@github.com:StickySource/sticky-release-testing.git
+[submodule "sticky-coercion"]
+	path = sticky-coercion
+	url = git@github.com:StickySource/sticky-coercion
+[submodule "sticky-exception"]
+	path = sticky-exception
+	url = git@github.com:StickySource/sticky-exception
+[submodule "sticky-reflector"]
+	path = sticky-reflector
+	url = git@github.com:StickySource/sticky-reflector
+[submodule "sticky-metadata-api"]
+	path = sticky-metadata-api
+	url = git@github.com:StickySource/sticky-metadata-api
+[submodule "sticky-testutils"]
+	path = sticky-testutils
+	url = git@github.com:StickySource/sticky-testutils
+[submodule "sticky-metadata-reflective"]
+	path = sticky-metadata-reflective
+	url = git@github.com:StickySource/sticky-metadata-reflective
